@@ -1,0 +1,27 @@
+body{
+  background-image: url("../resources/background.jpg");
+}
+
+.container{
+  background: #BDBDBD;
+}
+h1{
+  text-decoration-style: double;
+}
+
+.hinge{
+  position: absolute;
+  z-index: 3 !important;
+}
+#title{
+  width: 90%;
+}
+
+#team{
+  width: 100% !important;
+  margin: 0;
+}
+
+h3{
+  color: #000;
+}
