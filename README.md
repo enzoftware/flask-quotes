@@ -1,2 +1,2 @@
 # tribute-page
-Simple project from freeCodeCamp frontEnd projects. Tematic : Coldplay :heart: :musical_note: :notes: :microphone:
+Simple project from freeCodeCamp frontEnd projects. Tematic : Laguna pai :heart: :musical_note: :notes: :microphone:
