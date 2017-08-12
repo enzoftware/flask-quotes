@@ -1,6 +1,6 @@
 # Tribute page : Laguna Pai
 Simple project from freeCodeCamp frontEnd projects. Tematic : Laguna pai :heart: :musical_note: :notes: :microphone:
-**link : https://enzoftware.github.io/triute-page/**
+**link : https://enzoftware.github.io/tribute-page/**
 ---
 
 <div align="center">
