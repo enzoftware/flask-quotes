@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
 body{
   background-image: url("../resources/background.jpg");
+  color: #FFF;
 }
 
 .container{
-  background: #BDBDBD;
+  background: #231B21;
 }
 h1{
   text-decoration-style: double;
@@ -14,7 +16,7 @@ h1{
   z-index: 3 !important;
 }
 #title{
-  width: 90%;
+  width: 100%;
 }
 
 #team{
@@ -23,5 +25,18 @@ h1{
 }
 
 h3{
-  color: #000;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.info{
+  padding: 5%;
+}
+
+.disc{
+  width: 33%;
+  padding: 5%;
+}
+
+.disc > img{
+  width: 100%;
 }
