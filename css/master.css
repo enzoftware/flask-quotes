@@ -40,3 +40,17 @@ h3{
 .disc > img{
   width: 100%;
 }
+
+.sn{
+  width: 33%;
+  padding: 5%;
+}
+a{
+  text-decoration: none;
+  color: #FFF;
+}
+
+#web{
+  width: 100%;
+  padding: 5%;
+}

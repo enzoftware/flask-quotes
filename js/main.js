@@ -4,3 +4,11 @@ $(document).ready(function(){
     $("#credits").addClass("animated hinge");
   });
 });
+
+$(".disc").hover(function () {
+  $(".disc").addClass("animated rubberBand");
+});
+
+$("#web").hover(function () {
+  $("#web").addClass("animated rubberBand");
+});
