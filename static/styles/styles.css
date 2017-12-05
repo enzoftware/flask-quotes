@@ -1,0 +1,13 @@
+@import url('http://fonts.googleapis.com/css?family=Amatic+SC:700');
+
+
+#title{
+    font-family: 'Amatic SC', cursive;
+    font-weight: normal;
+    color: #112233;
+    font-size: 2.5em;
+}
+
+body{
+    background: lightpink;
+}

@@ -1,13 +1,16 @@
 <html>
 <head>
-    <title>Website</title>
-    <link href="css/style.css">
+    <title>Flask quotes</title>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/styles.css') }}">
 </head>
+
 <body>
+
 <div align="center">
     {% block body %}
     {% endblock %}
 </div>
+
 
 </body>
 </html>
