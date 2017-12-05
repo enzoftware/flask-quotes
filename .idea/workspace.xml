@@ -2,272 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e5cc192-3df1-47eb-8117-4c6fe6748e21" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hello.py" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/css/master.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/js/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/avatar_me.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/.editorconfig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/CONTRIBUTING.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/Gruntfile.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/HISTORY.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/css/demo-page.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/css/hover-min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/css/hover.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/css/hover.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/_hacks.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/_mixins.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/_options.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_backward.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_bob.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_bounce-in.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_bounce-out.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_buzz-out.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_buzz.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_float.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_forward.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_grow-rotate.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_grow.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_hang.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_pop.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_pulse-grow.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_pulse-shrink.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_pulse.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_push.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_rotate.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_shrink.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_sink.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_skew-backward.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_skew-forward.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_skew.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_wobble-bottom.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_wobble-horizontal.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_wobble-skew.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_wobble-to-bottom-right.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_wobble-to-top-right.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_wobble-top.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/2d-transitions/_wobble-vertical.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_back-pulse.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_bounce-to-bottom.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_bounce-to-left.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_bounce-to-right.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_bounce-to-top.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_fade.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_radial-in.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_radial-out.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_rectangle-in.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_rectangle-out.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_shutter-in-horizontal.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_shutter-in-vertical.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_shutter-out-horizontal.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_shutter-out-vertical.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_sweep-to-bottom.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_sweep-to-left.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_sweep-to-right.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/background-transitions/_sweep-to-top.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_border-fade.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_hollow.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_outline-in.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_outline-out.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_overline-from-center.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_overline-from-left.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_overline-from-right.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_overline-reveal.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_reveal.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_ripple-in.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_ripple-out.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_round-corners.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_trim.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_underline-from-center.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_underline-from-left.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_underline-from-right.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/border-transitions/_underline-reveal.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/curls/_curl-bottom-left.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/curls/_curl-bottom-right.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/curls/_curl-top-left.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/curls/_curl-top-right.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-back.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-bob.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-bounce-out.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-bounce.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-buzz-out.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-buzz.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-down.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-drop.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-fade.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-float-away.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-float.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-forward.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-grow-rotate.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-grow.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-hang.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-pop.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-pulse-grow.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-pulse-shrink.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-pulse.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-push.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-rotate.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-shrink.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-sink-away.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-sink.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-spin.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-up.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-wobble-horizontal.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/icons/_icon-wobble-vertical.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/shadow-and-glow-transitions/_box-shadow-inset.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/shadow-and-glow-transitions/_box-shadow-outset.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/shadow-and-glow-transitions/_float-shadow.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/shadow-and-glow-transitions/_glow.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/shadow-and-glow-transitions/_grow-shadow.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/shadow-and-glow-transitions/_shadow-radial.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/shadow-and-glow-transitions/_shadow.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/speech-bubbles/_bubble-bottom.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/speech-bubbles/_bubble-float-bottom.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/speech-bubbles/_bubble-float-left.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/speech-bubbles/_bubble-float-right.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/speech-bubbles/_bubble-float-top.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/speech-bubbles/_bubble-left.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/speech-bubbles/_bubble-right.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/effects/speech-bubbles/_bubble-top.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/less/hover.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/license.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/_hacks.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/_options.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_backward.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_bob.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_bounce-in.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_bounce-out.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_buzz-out.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_buzz.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_float.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_forward.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_grow-rotate.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_grow.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_hang.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_pop.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_pulse-grow.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_pulse-shrink.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_pulse.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_push.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_rotate.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_shrink.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_sink.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_skew-backward.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_skew-forward.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_skew.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_wobble-bottom.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_wobble-horizontal.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_wobble-skew.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_wobble-to-bottom-right.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_wobble-to-top-right.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_wobble-top.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/2d-transitions/_wobble-vertical.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_back-pulse.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_bounce-to-bottom.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_bounce-to-left.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_bounce-to-right.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_bounce-to-top.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_fade.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_radial-in.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_radial-out.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_rectangle-in.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_rectangle-out.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_shutter-in-horizontal.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_shutter-in-vertical.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_shutter-out-horizontal.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_shutter-out-vertical.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_sweep-to-bottom.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_sweep-to-left.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_sweep-to-right.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/background-transitions/_sweep-to-top.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_border-fade.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_hollow.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_outline-in.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_outline-out.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_overline-from-center.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_overline-from-left.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_overline-from-right.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_overline-reveal.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_reveal.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_ripple-in.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_ripple-out.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_round-corners.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_trim.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_underline-from-center.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_underline-from-left.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_underline-from-right.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/border-transitions/_underline-reveal.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/curls/_curl-bottom-left.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/curls/_curl-bottom-right.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/curls/_curl-top-left.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/curls/_curl-top-right.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-back.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-bob.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-bounce-out.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-bounce.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-buzz-out.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-buzz.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-down.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-drop.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-fade.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-float-away.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-float.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-forward.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-grow-rotate.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-grow.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-hang.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-pop.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-pulse-grow.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-pulse-shrink.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-pulse.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-push.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-rotate.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-shrink.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-sink-away.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-sink.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-spin.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-up.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-wobble-horizontal.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/icons/_icon-wobble-vertical.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/shadow-and-glow-transitions/_box-shadow-inset.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/shadow-and-glow-transitions/_box-shadow-outset.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/shadow-and-glow-transitions/_float-shadow.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/shadow-and-glow-transitions/_glow.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/shadow-and-glow-transitions/_grow-shadow.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/shadow-and-glow-transitions/_shadow-radial.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/shadow-and-glow-transitions/_shadow.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/speech-bubbles/_bubble-bottom.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/speech-bubbles/_bubble-float-bottom.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/speech-bubbles/_bubble-float-left.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/speech-bubbles/_bubble-float-right.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/speech-bubbles/_bubble-float-top.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/speech-bubbles/_bubble-left.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/speech-bubbles/_bubble-right.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/effects/speech-bubbles/_bubble-top.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/hover-master/scss/hover.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Personal Portfolio/resources/info.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Tribute Page/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Tribute Page/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Tribute Page/css/master.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Tribute Page/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Tribute Page/js/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Tribute Page/resources/atento.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Tribute Page/resources/babilon.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Tribute Page/resources/background.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Tribute Page/resources/baja.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Tribute Page/resources/laguna.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Tribute Page/resources/laguna_black.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Tribute Page/resources/lagunapai.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Tribute Page/resources/resilencia.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Tribute Page/resources/ss.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Tribute Page/resources/weblink.jpg" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -281,17 +17,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="hello.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hello.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -300,6 +63,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/hello.py" />
+        <option value="$PROJECT_DIR$/templates/test.html" />
+        <option value="$PROJECT_DIR$/app.py" />
       </list>
     </option>
   </component>
@@ -314,6 +79,25 @@
     <option name="y" value="27" />
     <option name="width" value="934" />
     <option name="height" value="1053" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8NamingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -437,8 +221,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20609884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20609884" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15854311" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -468,8 +252,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hello.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding />
         </state>
       </provider>
