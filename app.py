@@ -1,5 +1,5 @@
 from flask import Flask , flash , redirect , render_template ,  request , session , abort
-from random import  randint
+from random import  choice
 app = Flask(__name__)
 
 
@@ -30,12 +30,12 @@ def getmember(name):
 @app.route("/hello/<string:name>/")
 def hello(name):
     quotes = [
-        "'If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.' -- John Louis von Neumann ",
-        "'Computer science is no more about computers than astronomy is about telescopes' --  Edsger Dijkstra ",
-        "'To understand recursion you must first understand recursion..' -- Unknown",
-        "'You look at things that are and ask, why? I dream of things that never were and ask, why not?' -- Unknown",
-        "'Mathematics is the key and door to the sciences.' -- Galileo Galilei",
-        "'Not everyone will understand your journey. Thats fine. Its not their journey to make sense of. Its yours.' -- Unknown"]
+        "\"If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.\" -- John Louis von Neumann ",
+        "\"Computer science is no more about computers than astronomy is about telescopes\" --  Edsger Dijkstra ",
+        "\"To understand recursion you must first understand recursion..\" -- Unknown",
+        "\"You look at things that are and ask, why? I dream of things that never were and ask, why not?\" -- Unknown",
+        "\"Mathematics is the key and door to the sciences.\" -- Galileo Galilei",
+        "\"Not everyone will understand your journey. Thats fine. Its not their journey to make sense of. Its yours.\" -- Unknown"]
 
     gifs = [
         "https://i.pinimg.com/originals/94/49/b1/9449b1834ba649db8a675519238d8e77.gif",
@@ -45,10 +45,9 @@ def hello(name):
         "https://media1.tenor.com/images/efc9f6ce8923eadf351b676f29bf943c/tenor.gif?itemid=5449984",
         "http://teamjimmyjoe.com/wp-content/uploads/2016/11/trump-clinton-godzilla-funny-gifs.gif"
     ]
-
-    random_number = randint(0, len(quotes) - 1)
-    quote = quotes[random_number]
-    gif_url = gifs[randint(0, len(gifs)-1)]
+    
+    quote = choice(quotes)
+    gif_url = choice(gifs)
     print(gif_url)
 
     return render_template(
